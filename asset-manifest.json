@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Who-oss/DNA-gel-analyzer.git/static/css/main.358f3bd1.css",
-    "main.js": "/Who-oss/DNA-gel-analyzer.git/static/js/main.622447a1.js",
-    "static/js/488.52deea5a.chunk.js": "/Who-oss/DNA-gel-analyzer.git/static/js/488.52deea5a.chunk.js",
-    "index.html": "/Who-oss/DNA-gel-analyzer.git/index.html",
-    "main.358f3bd1.css.map": "/Who-oss/DNA-gel-analyzer.git/static/css/main.358f3bd1.css.map",
-    "main.622447a1.js.map": "/Who-oss/DNA-gel-analyzer.git/static/js/main.622447a1.js.map",
-    "488.52deea5a.chunk.js.map": "/Who-oss/DNA-gel-analyzer.git/static/js/488.52deea5a.chunk.js.map"
+    "main.css": "/DNA-gel-analyzer/static/css/main.358f3bd1.css",
+    "main.js": "/DNA-gel-analyzer/static/js/main.d996d0d3.js",
+    "static/js/488.52deea5a.chunk.js": "/DNA-gel-analyzer/static/js/488.52deea5a.chunk.js",
+    "index.html": "/DNA-gel-analyzer/index.html",
+    "main.358f3bd1.css.map": "/DNA-gel-analyzer/static/css/main.358f3bd1.css.map",
+    "main.d996d0d3.js.map": "/DNA-gel-analyzer/static/js/main.d996d0d3.js.map",
+    "488.52deea5a.chunk.js.map": "/DNA-gel-analyzer/static/js/488.52deea5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.358f3bd1.css",
-    "static/js/main.622447a1.js"
+    "static/js/main.d996d0d3.js"
   ]
 }
